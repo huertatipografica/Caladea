@@ -27,3 +27,22 @@ Main differences in Caladea:
 # About Huerta Tipográfica
 Huerta Tipográfica is a collaborative Argentinian type foundry with a deep respect for design and typography. Founded in 2009, the company began as a place to meet, cooperate, and share experiences while collaborating on academic and commercial projects. Huerta Tipográfica develops custom and retail fonts with libre, proprietary, or exclusive licenses, and is strongly committed to creating innovative and functional type. Their award-winning work has been recognized by Letter.2, Tipos Latinos, and the Bienal Iberoamericana de Diseño. http://www.huertatipografica.com
 
+
+### Acknowledgements
+
+If you make modifications be sure to add your name (N),  email (E), web-address
+(if you have one) (W) and  description (D). This list is in alphabetical order.
+
+**N: Andrés Torresi**
+
+E: andres@huertatipografica.com
+W: http://www.huertatipografica.com
+D: Original Type Designer
+
+---
+
+**N: Carolina Giovagnoli**
+
+E: caro@huertatipografica.com
+W: http://www.huertatipografica.com
+D: Type Designer
