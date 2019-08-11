@@ -36,7 +36,9 @@ If you make modifications be sure to add your name (N),  email (E), web-address
 **N: Andrés Torresi**
 
 E: andres@huertatipografica.com
+
 W: http://www.huertatipografica.com
+
 D: Original Type Designer
 
 ---
@@ -44,5 +46,10 @@ D: Original Type Designer
 **N: Carolina Giovagnoli**
 
 E: caro@huertatipografica.com
+
 W: http://www.huertatipografica.com
+
 D: Type Designer
+
+
+
