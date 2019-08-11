@@ -1,7 +1,7 @@
 # Caladea font project
 
 Caladea is a free modern, friendly serif font family based on Cambo (https://fonts.google.com/specimen/Cambo)
-Designed by Carolina Giovagnoli and Andrés Torresi for Huerta Tipográfica.
+Designed by Carolina Giovagnoli and Andrés Torresi for Huerta Tipográfica in 2012.
 
 Cambo is a modern Latin typeface inspired by the contrast, style and ornaments of Khmer typefaces and writing styles. Its main objective is to be used to write Latin texts in a Khmer context, but it is also an elegant choice for all kinds of texts. 
 
@@ -15,13 +15,13 @@ Main differences in Caladea:
 
 ## Changelog
 
-### Version 1.001
+### Version 1.001 (02/2013)
 
 - UFO sources
 
-### Version 1.000
+### Version 1.000 (09/2012)
 
-- First public release
+- First public release 
 
 
 # About Huerta Tipográfica
