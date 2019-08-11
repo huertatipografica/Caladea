@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="1">
+  <advance width="285"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <contour>
+      <point x="245" y="671" type="line"/>
+      <point x="143" y="594" type="line"/>
+      <point x="42" y="671" type="line"/>
+      <point x="20" y="646" type="line"/>
+      <point x="112" y="540" type="line" smooth="yes"/>
+      <point x="121" y="530"/>
+      <point x="131" y="524"/>
+      <point x="143" y="524" type="curve" smooth="yes"/>
+      <point x="155" y="524"/>
+      <point x="165" y="529"/>
+      <point x="174" y="540" type="curve" smooth="yes"/>
+      <point x="267" y="646" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

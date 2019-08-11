@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="revlogicalnot" format="1">
+  <advance width="554"/>
+  <unicode hex="2310"/>
+  <outline>
+    <contour>
+      <point x="58" y="345" type="line"/>
+      <point x="497" y="345" type="line"/>
+      <point x="505" y="398" type="line"/>
+      <point x="66" y="398" type="line"/>
+    </contour>
+    <contour>
+      <point x="31" y="177" type="line"/>
+      <point x="91" y="177" type="line"/>
+      <point x="118" y="345" type="line"/>
+      <point x="58" y="345" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

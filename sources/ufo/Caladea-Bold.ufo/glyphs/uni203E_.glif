@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni203E" format="1">
+  <advance width="371"/>
+  <unicode hex="203E"/>
+  <outline>
+    <contour>
+      <point x="371" y="680" type="line"/>
+      <point x="371" y="754" type="line"/>
+      <point x="0" y="754" type="line"/>
+      <point x="0" y="680" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

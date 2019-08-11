@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="house" format="1">
+  <advance width="694"/>
+  <unicode hex="2302"/>
+  <outline>
+    <contour>
+      <point x="37" y="0" type="line"/>
+      <point x="596" y="0" type="line"/>
+      <point x="657" y="389" type="line"/>
+      <point x="421" y="669" type="line"/>
+      <point x="97" y="389" type="line"/>
+    </contour>
+    <contour>
+      <point x="162" y="359" type="line"/>
+      <point x="406" y="569" type="line"/>
+      <point x="582" y="359" type="line"/>
+      <point x="535" y="63" type="line"/>
+      <point x="115" y="63" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

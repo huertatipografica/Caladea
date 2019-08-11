@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="1">
+  <advance width="320"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="210" y="-151" type="line"/>
+      <point x="210" y="758" type="line"/>
+      <point x="110" y="758" type="line"/>
+      <point x="110" y="-151" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

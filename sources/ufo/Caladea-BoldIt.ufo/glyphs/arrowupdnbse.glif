@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowupdnbse" format="1">
+  <advance width="300"/>
+  <unicode hex="21A8"/>
+  <outline>
+    <contour>
+      <point x="218" y="758" type="line"/>
+      <point x="91" y="553" type="line"/>
+      <point x="172" y="612" type="line"/>
+      <point x="145" y="386" type="line"/>
+      <point x="100" y="161" type="line"/>
+      <point x="39" y="220" type="line"/>
+      <point x="100" y="15" type="line"/>
+      <point x="106" y="15" type="line"/>
+      <point x="233" y="220" type="line"/>
+      <point x="153" y="161" type="line"/>
+      <point x="179" y="386" type="line"/>
+      <point x="225" y="612" type="line"/>
+      <point x="285" y="553" type="line"/>
+      <point x="224" y="758" type="line"/>
+    </contour>
+    <contour>
+      <point x="-41" y="-117" type="line"/>
+      <point x="202" y="-117" type="line"/>
+      <point x="211" y="-63" type="line"/>
+      <point x="-32" y="-63" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

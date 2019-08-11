@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="radical" format="1">
+  <advance width="717"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="63" y="251" type="line"/>
+      <point x="182" y="284" type="line"/>
+      <point x="255" y="-41" type="line"/>
+      <point x="368" y="-41" type="line"/>
+      <point x="686" y="700" type="line"/>
+      <point x="831" y="709" type="line"/>
+      <point x="841" y="769" type="line"/>
+      <point x="581" y="769" type="line"/>
+      <point x="325" y="155" type="line"/>
+      <point x="268" y="383" type="line"/>
+      <point x="51" y="315" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

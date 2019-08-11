@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="1">
+  <advance width="280"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="160" y="212" type="line"/>
+      <point x="188" y="355"/>
+      <point x="269" y="529"/>
+      <point x="269" y="613" type="curve" smooth="yes"/>
+      <point x="269" y="644"/>
+      <point x="257" y="663"/>
+      <point x="223" y="663" type="curve" smooth="yes"/>
+      <point x="185" y="663"/>
+      <point x="161" y="646"/>
+      <point x="161" y="646" type="curve"/>
+      <point x="162" y="636"/>
+      <point x="162" y="625"/>
+      <point x="162" y="613" type="curve" smooth="yes"/>
+      <point x="162" y="491"/>
+      <point x="124" y="311"/>
+      <point x="106" y="203" type="curve"/>
+    </contour>
+    <contour>
+      <point x="118" y="109" type="curve" smooth="yes"/>
+      <point x="80" y="109"/>
+      <point x="58" y="74"/>
+      <point x="58" y="36" type="curve" smooth="yes"/>
+      <point x="58" y="11"/>
+      <point x="75" y="-7"/>
+      <point x="101" y="-7" type="curve" smooth="yes"/>
+      <point x="139" y="-7"/>
+      <point x="161" y="28"/>
+      <point x="161" y="66" type="curve" smooth="yes"/>
+      <point x="161" y="91"/>
+      <point x="143" y="109"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
