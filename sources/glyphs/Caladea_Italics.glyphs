@@ -504,23 +504,19 @@ custom = Italic;
 customValue = 100;
 customParameters = (
 {
+name = typoAscender;
+value = 778;
+},
+{
 name = typoDescender;
 value = -222;
 },
 {
 name = typoLineGap;
-value = 172;
-},
-{
-name = hheaLineGap;
 value = 0;
 },
 {
 name = hheaAscender;
-value = 950;
-},
-{
-name = typoAscender;
 value = 778;
 },
 {
@@ -528,12 +524,16 @@ name = hheaDescender;
 value = -222;
 },
 {
-name = winDescent;
-value = 222;
+name = hheaLineGap;
+value = 0;
 },
 {
 name = winAscent;
 value = 950;
+},
+{
+name = winDescent;
+value = 222;
 },
 {
 name = "Master Icon Glyph Name";
@@ -570,23 +570,19 @@ custom = Italic;
 customValue = 100;
 customParameters = (
 {
+name = typoAscender;
+value = 778;
+},
+{
 name = typoDescender;
 value = -222;
 },
 {
 name = typoLineGap;
-value = 172;
-},
-{
-name = hheaLineGap;
 value = 0;
 },
 {
 name = hheaAscender;
-value = 950;
-},
-{
-name = typoAscender;
 value = 778;
 },
 {
@@ -594,12 +590,16 @@ name = hheaDescender;
 value = -222;
 },
 {
-name = winDescent;
-value = 222;
+name = hheaLineGap;
+value = 0;
 },
 {
 name = winAscent;
 value = 950;
+},
+{
+name = winDescent;
+value = 222;
 },
 {
 name = "Master Icon Glyph Name";
@@ -27933,21 +27933,6 @@ width = 361;
 unicode = 02C9;
 },
 {
-glyphname = uni00A0;
-lastChange = "2019-08-19 16:07:20 +0000";
-layers = (
-{
-layerId = "CF479DE4-94A2-4865-8D1E-65EA355866D4";
-width = 220;
-},
-{
-layerId = "0FAD76F5-9F58-4721-BF81-08BC6166EF10";
-width = 220;
-}
-);
-unicode = 00A0;
-},
-{
 glyphname = minute;
 lastChange = "2019-08-19 16:07:20 +0000";
 layers = (
@@ -40553,6 +40538,35 @@ width = 500;
 unicode = 1EF9;
 },
 {
+glyphname = nbspace;
+lastChange = "2019-09-24 16:49:46 +0000";
+layers = (
+{
+layerId = "CF479DE4-94A2-4865-8D1E-65EA355866D4";
+width = 220;
+},
+{
+layerId = "0FAD76F5-9F58-4721-BF81-08BC6166EF10";
+width = 220;
+}
+);
+unicode = 00A0;
+},
+{
+glyphname = CR;
+layers = (
+{
+layerId = "CF479DE4-94A2-4865-8D1E-65EA355866D4";
+width = 600;
+},
+{
+layerId = "0FAD76F5-9F58-4721-BF81-08BC6166EF10";
+width = 600;
+}
+);
+unicode = 000D;
+},
+{
 glyphname = .notdef;
 lastChange = "2019-08-19 16:07:20 +0000";
 layers = (
@@ -40563,6 +40577,19 @@ width = 220;
 {
 layerId = "0FAD76F5-9F58-4721-BF81-08BC6166EF10";
 width = 220;
+}
+);
+},
+{
+glyphname = NULL;
+layers = (
+{
+layerId = "CF479DE4-94A2-4865-8D1E-65EA355866D4";
+width = 600;
+},
+{
+layerId = "0FAD76F5-9F58-4721-BF81-08BC6166EF10";
+width = 600;
 }
 );
 }

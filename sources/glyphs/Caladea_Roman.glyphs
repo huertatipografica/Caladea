@@ -503,23 +503,19 @@ capHeight = 667;
 customValue = 100;
 customParameters = (
 {
+name = typoAscender;
+value = 778;
+},
+{
 name = typoDescender;
 value = -222;
 },
 {
 name = typoLineGap;
-value = 172;
-},
-{
-name = hheaLineGap;
 value = 0;
 },
 {
 name = hheaAscender;
-value = 950;
-},
-{
-name = typoAscender;
 value = 778;
 },
 {
@@ -527,12 +523,16 @@ name = hheaDescender;
 value = -222;
 },
 {
-name = winDescent;
-value = 222;
+name = hheaLineGap;
+value = 0;
 },
 {
 name = winAscent;
 value = 950;
+},
+{
+name = winDescent;
+value = 222;
 },
 {
 name = "Default Layer Width";
@@ -567,23 +567,19 @@ capHeight = 667;
 customValue = 100;
 customParameters = (
 {
+name = typoAscender;
+value = 778;
+},
+{
 name = typoDescender;
 value = -222;
 },
 {
 name = typoLineGap;
-value = 172;
-},
-{
-name = hheaLineGap;
 value = 0;
 },
 {
 name = hheaAscender;
-value = 950;
-},
-{
-name = typoAscender;
 value = 778;
 },
 {
@@ -591,12 +587,16 @@ name = hheaDescender;
 value = -222;
 },
 {
-name = winDescent;
-value = 222;
+name = hheaLineGap;
+value = 0;
 },
 {
 name = winAscent;
 value = 950;
+},
+{
+name = winDescent;
+value = 222;
 }
 );
 descender = -222;
@@ -23413,21 +23413,6 @@ width = 391;
 unicode = 02C9;
 },
 {
-glyphname = uni00A0;
-lastChange = "2019-08-19 16:07:20 +0000";
-layers = (
-{
-layerId = UUID0;
-width = 220;
-},
-{
-layerId = "0EBA3A65-8808-4583-9AA2-2A9BC4F414AB";
-width = 220;
-}
-);
-unicode = 00A0;
-},
-{
 glyphname = minute;
 lastChange = "2019-08-19 16:07:20 +0000";
 layers = (
@@ -36737,6 +36722,35 @@ width = 531;
 unicode = 1EF9;
 },
 {
+glyphname = nbspace;
+lastChange = "2019-09-24 16:48:50 +0000";
+layers = (
+{
+layerId = UUID0;
+width = 220;
+},
+{
+layerId = "0EBA3A65-8808-4583-9AA2-2A9BC4F414AB";
+width = 220;
+}
+);
+unicode = 00A0;
+},
+{
+glyphname = CR;
+layers = (
+{
+layerId = UUID0;
+width = 600;
+},
+{
+layerId = "0EBA3A65-8808-4583-9AA2-2A9BC4F414AB";
+width = 600;
+}
+);
+unicode = 000D;
+},
+{
 glyphname = .notdef;
 lastChange = "2019-08-19 16:07:20 +0000";
 layers = (
@@ -36747,6 +36761,19 @@ width = 220;
 {
 layerId = "0EBA3A65-8808-4583-9AA2-2A9BC4F414AB";
 width = 220;
+}
+);
+},
+{
+glyphname = NULL;
+layers = (
+{
+layerId = UUID0;
+width = 600;
+},
+{
+layerId = "0EBA3A65-8808-4583-9AA2-2A9BC4F414AB";
+width = 600;
 }
 );
 }
