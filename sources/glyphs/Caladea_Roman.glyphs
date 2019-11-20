@@ -16,7 +16,7 @@ DisplayStrings = (
 "/second",
 "/gcommaaccent",
 "/kcommaaccent",
-"/lira"
+nnooHHOe
 );
 copyright = "Copyright 2012 The Caladea Project Authors (https://github.com/huertatipografica/Caladea)";
 customParameters = (
@@ -1149,11 +1149,11 @@ customValue = 100;
 customParameters = (
 {
 name = typoAscender;
-value = 778;
+value = 800;
 },
 {
 name = typoDescender;
-value = -222;
+value = -230;
 },
 {
 name = typoLineGap;
@@ -1161,11 +1161,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 778;
+value = 800;
 },
 {
 name = hheaDescender;
-value = -222;
+value = -230;
 },
 {
 name = hheaLineGap;
@@ -1173,11 +1173,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 950;
+value = 1050;
 },
 {
 name = winDescent;
-value = 222;
+value = 250;
 }
 );
 descender = -222;
@@ -1231,11 +1231,11 @@ customValue = 100;
 customParameters = (
 {
 name = typoAscender;
-value = 778;
+value = 800;
 },
 {
 name = typoDescender;
-value = -222;
+value = -230;
 },
 {
 name = typoLineGap;
@@ -1243,11 +1243,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 778;
+value = 800;
 },
 {
 name = hheaDescender;
-value = -222;
+value = -230;
 },
 {
 name = hheaLineGap;
@@ -1255,11 +1255,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 950;
+value = 1050;
 },
 {
 name = winDescent;
-value = 222;
+value = 250;
 }
 );
 descender = -222;
@@ -1289,6 +1289,7 @@ horizontalStems = (
 );
 id = "0EBA3A65-8808-4583-9AA2-2A9BC4F414AB";
 verticalStems = (
+141,
 147,
 113
 );
