@@ -29,10 +29,6 @@ name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
-name = description;
-value = "Copyright 2012 by Huerta Tipografica. All rights reserved.";
-},
-{
 name = trademark;
 value = "Caladea is a trademark of Carolina Giovagnoli & Andres Torresi.";
 },
@@ -1129,6 +1125,10 @@ value = "New Value";
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = vendorID;
+value = HT;
 }
 );
 date = "2019-09-24 16:15:44 +0000";
