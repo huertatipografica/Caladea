@@ -8,8 +8,8 @@ DisplayStrings = (
 "/dagger/daggerdbl ¤¹²³/franc/lira",
 "/IJ K/Kcommaaccent L/Lcommaaccent/Ncommaaccent R/Rcommaaccent T/ij/napostrophe/longs/kcommaaccent/lcommaaccent/ncommaaccent r/rcommaaccent tt/nsuperior",
 "d/commaaccent d/dcaron ohlb\012nndnodoo\012nn/dcaron no/dcaron oo\012nn/dcaron ko/dcaron oo",
-"L/Lcaron d/dcaron ll/lcaron kt/tcaron",
-"WCmosVáV/abreve VâVäVàV/amacron V/aogonek VåV/aringacute VãVæV/aeacute \012Want WáW/abreve WâWäWàW/amacron W/aogonek WåW/aringacute WãWæW/aeacute  W: W; W, W. V: V; V, V. P: P; P, P. F: F; F, F.  HH HH\012Pa PáP/abreve PâPäPàP/amacron P/aogonek PåP/aringacute PãPæP/aeacute \012Ya YáY/abreve YâYäYàY/amacron Y/aogonek YåY/aringacute YãYæY/aeacute \012Wi WíW/ibreve WîWïW/idotaccent W/idotless WìW/imacron W/iogonek W/itilde W/jcircumflex  W/jdotless/dotaccent j\012Wo WóW/obreve WôWöWòW/ohungarumlaut W/omacron WøWêWõW/oe  e\012Tonnn Wonk nïünonino",
+"L/Lcaron d/caron.alt/dcaron ll/lcaron kt/tcaron",
+"VamosVáV/abreve VâVäVàV/amacron V/aogonek VåV/aringacute VãVæV/aeacute \012Want WáW/abreve WâWäWàW/amacron W/aogonek WåW/aringacute WãWæW/aeacute  W: W; W, W. V: V; V, V. P: P; P, P. F: F; F, F.  HH HH\012Pa PáP/abreve PâPäPàP/amacron P/aogonek PåP/aringacute PãPæP/aeacute \012Ya YáY/abreve YâYäYàY/amacron Y/aogonek YåY/aringacute YãYæY/aeacute \012Wi WíW/ibreve WîWïW/idotaccent W/idotless WìW/imacron W/iogonek W/itilde W/jcircumflex  W/jdotless/dotaccent j\012Wo WóW/obreve WôWöWòW/ohungarumlaut W/omacron WøWêWõW/oe  e\012Tonnn Wonk nïünonino",
 "/Cdotaccent/Edotaccent/Gdotaccent/Idotaccent L/Ldot/Zdotaccent/cdotaccent/edotaccent/dotaccentcomb/gdotaccent/idotless/jdotless/ldot/zdotaccent/dotaccent/dotaccent/dotaccentcomb/dotaccentcomb.case . ",
 "/Aogonek E/Eogonek U/Uogonek/ogonek/ogonekcomb/ogonekcomb.case \012/Aogonek E/Eogonek I/Iogonek U/ogonekcomb.case/Uogonek a/aogonek e/eogonek/iogonek u/ogonek/ogonekcomb/uogonek",
 "/Aogonek/Eogonek/Iogonek U/Uogonek/aogonek/eogonek/iogonek/uogonek",
@@ -6676,7 +6676,7 @@ unicode = 0056;
 {
 color = 4;
 glyphname = W;
-lastChange = "2019-12-01 05:33:44 +0000";
+lastChange = "2019-12-02 22:23:14 +0000";
 layers = (
 {
 anchors = (
@@ -7156,7 +7156,7 @@ unicode = 0058;
 {
 color = 4;
 glyphname = Y;
-lastChange = "2019-12-01 05:32:14 +0000";
+lastChange = "2019-12-02 22:25:30 +0000";
 layers = (
 {
 anchors = (
@@ -11212,7 +11212,7 @@ unicode = 006E;
 {
 color = 4;
 glyphname = o;
-lastChange = "2019-11-29 15:24:50 +0000";
+lastChange = "2019-12-02 22:21:00 +0000";
 layers = (
 {
 anchors = (
@@ -68295,7 +68295,7 @@ softhyphen = -54;
 "@MMK_L_Y" = {
 "@MMK_R_A" = -100;
 "@MMK_R_AE" = -112;
-"@MMK_R_O" = -30;
+"@MMK_R_O" = -34;
 "@MMK_R_S" = -11;
 "@MMK_R_a" = -76;
 "@MMK_R_comma" = -103;
@@ -69166,7 +69166,7 @@ softhyphen = -68;
 "@MMK_R_hyphen" = -77;
 "@MMK_R_i" = -20;
 "@MMK_R_n" = -27;
-"@MMK_R_o" = -63;
+"@MMK_R_o" = -74;
 "@MMK_R_period" = -105;
 "@MMK_R_s" = -56;
 "@MMK_R_semicolon" = -20;
