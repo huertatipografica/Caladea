@@ -47,6 +47,13 @@ value = (
 );
 },
 {
+name = openTypeOS2FamilyClass;
+value = (
+2,
+1
+);
+},
+{
 name = glyphOrder;
 value = (
 .notdef,

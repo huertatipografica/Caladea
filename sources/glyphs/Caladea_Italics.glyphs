@@ -25,7 +25,8 @@ f,
 "0123456789",
 "HH/zero.tf H/one.tf H/two.tf H/three.tf H/four.tf H/five.tf H/six.tf H/seven.tf H/eight.tf H/nine.tf HH\012ABCDEFGHIJKLMNOPQRSTSUVWXYZ\012HH1HH2HH3HH4HH5HH6HH7HH8HH9HH0HH2180 3215 4715 191878 3897",
 "/seveneighths",
-"¼½¾/oneeighth/threeeighths/fiveeighths/seveneighths"
+"¼½¾/oneeighth/threeeighths/fiveeighths/seveneighths",
+"/fi/fl/ij \012fi fl"
 );
 classes = (
 {
@@ -96,6 +97,13 @@ value = 1;
 {
 name = vendorID;
 value = HT;
+},
+{
+name = openTypeOS2FamilyClass;
+value = (
+2,
+1
+);
 },
 {
 name = glyphOrder;
@@ -9822,7 +9830,7 @@ unicode = 0065;
 {
 color = 4;
 glyphname = f;
-lastChange = "2019-12-09 23:20:22 +0000";
+lastChange = "2019-12-19 04:49:40 +0000";
 layers = (
 {
 background = {
@@ -35568,9 +35576,15 @@ unicode = 00DF;
 {
 color = 1;
 glyphname = fi;
-lastChange = "2019-11-27 15:18:17 +0000";
+lastChange = "2019-12-19 04:45:10 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{242, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -35752,6 +35766,12 @@ nodes = (
 width = 563;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{292, 0}";
+}
+);
 layerId = "0FAD76F5-9F58-4721-BF81-08BC6166EF10";
 paths = (
 {
@@ -35851,9 +35871,15 @@ unicode = FB01;
 {
 color = 1;
 glyphname = fl;
-lastChange = "2019-11-27 15:18:17 +0000";
+lastChange = "2019-12-19 04:45:55 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{250, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -35942,8 +35968,11 @@ nodes = (
 "308 413 LINE",
 "315 462 LINE",
 "219 462 LINE",
-"231 603 OFFCURVE",
-"281 658 OFFCURVE",
+"220 469 OFFCURVE",
+"220 475 OFFCURVE",
+"221 482 CURVE SMOOTH",
+"236 608 OFFCURVE",
+"284 658 OFFCURVE",
 "350 658 CURVE SMOOTH",
 "395 658 OFFCURVE",
 "426 645 OFFCURVE",
@@ -36003,6 +36032,12 @@ nodes = (
 width = 559;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{279, 0}";
+}
+);
 background = {
 paths = (
 {
@@ -64066,9 +64101,15 @@ unicode = 0145;
 {
 color = 1;
 glyphname = ij;
-lastChange = "2019-12-02 03:21:23 +0000";
+lastChange = "2019-12-19 04:47:43 +0000";
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{232, 0}";
+}
+);
 background = {
 anchors = (
 {
@@ -64330,6 +64371,12 @@ nodes = (
 width = 537;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{272, 0}";
+}
+);
 background = {
 anchors = (
 {
@@ -72222,6 +72269,8 @@ h = -12;
 h = -7;
 };
 "@MMK_L_f" = {
+"@MMK_R_i" = 0;
+"@MMK_R_l" = 0;
 "@MMK_R_o" = -6;
 "@MMK_R_quote" = 83;
 "@MMK_R_quotel" = 83;
