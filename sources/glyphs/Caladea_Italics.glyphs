@@ -25,8 +25,7 @@ f,
 "0123456789",
 "HH/zero.tf H/one.tf H/two.tf H/three.tf H/four.tf H/five.tf H/six.tf H/seven.tf H/eight.tf H/nine.tf HH\012ABCDEFGHIJKLMNOPQRSTSUVWXYZ\012HH1HH2HH3HH4HH5HH6HH7HH8HH9HH0HH2180 3215 4715 191878 3897",
 "/seveneighths",
-"¼½¾/oneeighth/threeeighths/fiveeighths/seveneighths",
-"/fi/fl/ij \012fi fl"
+"¼½¾/oneeighth/threeeighths/fiveeighths/seveneighths"
 );
 classes = (
 {
@@ -35,7 +34,7 @@ code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Aacute Abreve Acircu
 name = Uppercase;
 }
 );
-copyright = "Copyright 2012 The Familyname Project Authors (https://github.com/huertatipografica/Caladea)";
+copyright = "Copyright 2012 The Caladea Project Authors (https://github.com/huertatipografica/Caladea)";
 customParameters = (
 {
 name = license;
